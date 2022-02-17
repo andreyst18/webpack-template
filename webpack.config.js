@@ -31,7 +31,7 @@ module.exports = {
           "style-loader",
           // Translates CSS into CommonJS
           "css-loader",
-          // Compiles Sass to CSS
+          // Compiles Sass to CSS!
           "sass-loader",
         ],
       },
